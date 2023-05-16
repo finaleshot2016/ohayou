@@ -22,7 +22,7 @@ const About = () => {
           <div>
 <iframe className='py-4 w-full aspect-video' src="https://dexscreener.com/ethereum/" title="dexchart"></iframe>
           </div>
-          <a href="https://t.me/" target="_blank" rel="noopener noreferrer"><img className='justify-center' src={terminal2} alt="about" /></a>
+          <a href="https://app.uniswap.org/#/swap?outputCurrency=0x4a283dc1be3da010c790f9acdd9c9d8753ac175f" target="_blank" rel="noopener noreferrer"><img className='justify-center' src={terminal2} alt="about" /></a>
         </div>
       </div>
     </div>
