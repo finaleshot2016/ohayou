@@ -20,7 +20,7 @@ const Navbar = () => {
             <li><a href="https://t.me/ohayouETH" target="_blank" rel="noopener noreferrer">Telegram</a></li>
             <li><a href="https://twitter.com/OhayouETH" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@ohayou.erc" target="_blank" rel="noopener noreferrer">Medium</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Buy</a></li>
+            <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x4a283dc1be3da010c790f9acdd9c9d8753ac175f" target="_blank" rel="noopener noreferrer">Buy</a></li>
         
           </ul>
         </div>
@@ -40,7 +40,7 @@ const Navbar = () => {
             <li><a href="t.me/ohayouETH" target="_blank" rel="noopener noreferrer">Telegram</a></li>
             <li><a href="twitter.com/OhayouETH" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@ohayou.erc" target="_blank" rel="noopener noreferrer">Medium</a></li>
-            <li><a href="/" target="_blank" rel="noopener noreferrer">Buy</a></li>
+            <li><a href="https://app.uniswap.org/#/swap?outputCurrency=0x4a283dc1be3da010c790f9acdd9c9d8753ac175f" target="_blank" rel="noopener noreferrer">Buy</a></li>
           </ul>
         </div>
       </div>
