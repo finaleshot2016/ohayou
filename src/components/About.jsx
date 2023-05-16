@@ -10,7 +10,8 @@ const About = () => {
       <div className='max-w-[1240px] mx-auto px-4 py-16 '>
         <div id="about">
         <img className='justify-center' src={terminal} alt="about" />
-        <p class="text-3xl font-medium leading-relaxed mt-0 mb-4 text-[#EC6925]">
+        <p class="text-3xl font-medium leading-relaxed mt-0 mb-4 text-[#EC6925]"><br /> <br />
+        CA: 0x4a283dc1be3da010c790f9acdd9c9d8753ac175f <br /> <br />
         $OHAYOU, its name derived from the Japanese phrase meaning "Good Morning," carried within it a playful symbolism. It symbolized not only the beginning of a new day but also the dawn of a vibrant and interconnected community. And in this community, $OHAYOU sought to bridge the gap between traditional memes and the booming world of cryptocurrencies. <br /><br />
 
         The $OHAYOU will became a platform for creative expression, where artists and enthusiasts collaborated to create captivating digital artworks, memes, and videos that celebrated the spirit of joy and laughter. These creations traveled far and wide across social media platforms, spreading smiles and inspiring others to join the movement.
