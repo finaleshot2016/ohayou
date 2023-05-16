@@ -17,8 +17,8 @@ const Navbar = () => {
         <div className='hidden md:flex'>
           <ul className='flex text-[#ff3b00] items-center text-2xl'>
             <li><a href="#about">About</a></li>
-            <li><a href="t.me/ohayouETH" target="_blank" rel="noopener noreferrer">Telegram</a></li>
-            <li><a href="twitter.com/OhayouETH" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+            <li><a href="https://t.me/ohayouETH" target="_blank" rel="noopener noreferrer">Telegram</a></li>
+            <li><a href="https://twitter.com/OhayouETH" target="_blank" rel="noopener noreferrer">Twitter</a></li>
             <li><a href="https://medium.com/@ohayou.erc" target="_blank" rel="noopener noreferrer">Medium</a></li>
             <li><a href="/" target="_blank" rel="noopener noreferrer">Buy</a></li>
         
